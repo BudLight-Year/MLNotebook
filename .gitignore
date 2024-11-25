@@ -1,0 +1,5 @@
+.venv
+movies.csv
+ratings.csv
+genreModel.keras
+.ipynb_checkpoints
